@@ -23,7 +23,7 @@ A curated list of latest papers in the field of Computer Vision, inspired by [aw
 
 ### GANs
 * [Spectral Normalization for Generative Adversarial Networks](https://openreview.net/forum?id=B1QRgziT-) T. Miyato, ICLR, 2018
-* [Improved Training of Wasserstein GANs] (https://arxiv.org/abs/1704.00028) I. Gulrahjani, NIPS 2017
+* [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028) I. Gulrahjani, NIPS 2017
 
 
 
