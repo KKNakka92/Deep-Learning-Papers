@@ -30,4 +30,5 @@ A curated list of latest papers in the field of Computer Vision, inspired by [aw
 ### Visual Attention
 
 * [Attentional Pooling for Action Recognition](https://arxiv.org/abs/1711.01467), R. Girdhar, NIPS 2017
+* [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://arxiv.org/abs/1711.10485), T. Xu, CVPR 2018
 
