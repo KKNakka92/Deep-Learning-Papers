@@ -8,6 +8,4 @@ A curated list of latest papers in the field of Computer Vision, inspired by [aw
 ## Papers
 
 ### Deep Learning Visualization
-**Image Classification**
-
  * [Synthesizing the preferred inputs for neurons in neural networks via deep generator networks](https://arxiv.org/abs/1605.09304), A. Nguyen et al., NIPS 2016
