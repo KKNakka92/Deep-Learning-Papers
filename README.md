@@ -22,6 +22,7 @@ A curated list of latest papers in the field of Computer Vision, inspired by [aw
 
 
 ### GANs
+* [Spectral Normalization for Generative Adversarial Networks](https://openreview.net/forum?id=B1QRgziT-) T. Miyato, ICLR, 2018
 
 
 
