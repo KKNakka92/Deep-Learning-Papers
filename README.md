@@ -9,7 +9,7 @@ A curated list of latest papers in the field of Computer Vision, inspired by [aw
 
 ### Deep Learning Visualization
  * [Synthesizing the preferred inputs for neurons in neural networks via deep generator networks](https://arxiv.org/abs/1605.09304), A. Nguyen et al., NIPS 2016
- * [Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space]( https://arxiv.org/abs/1612.00005), , A. Nguyen et al., CVPR 2017
+ * [Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space]( https://arxiv.org/abs/1612.00005), A. Nguyen et al., CVPR 2017
 
 
 
@@ -22,8 +22,8 @@ A curated list of latest papers in the field of Computer Vision, inspired by [aw
 
 
 ### GANs
-* [Spectral Normalization for Generative Adversarial Networks](https://openreview.net/forum?id=B1QRgziT-) T. Miyato, ICLR, 2018
-* [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028) I. Gulrahjani, NIPS 2017
+* [Spectral Normalization for Generative Adversarial Networks](https://openreview.net/forum?id=B1QRgziT-), T. Miyato, ICLR, 2018
+* [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028), I. Gulrahjani, NIPS 2017
 
 
 
