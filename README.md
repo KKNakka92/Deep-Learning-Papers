@@ -11,3 +11,21 @@ A curated list of latest papers in the field of Computer Vision, inspired by [aw
  * [Synthesizing the preferred inputs for neurons in neural networks via deep generator networks](https://arxiv.org/abs/1605.09304), A. Nguyen et al., NIPS 2016
  * [Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space]( https://arxiv.org/abs/1612.00005), , A. Nguyen et al., CVPR 2017
 
+
+
+### Adversarial Attacks
+
+
+
+### Higher Order Pooling
+
+
+
+### GANs
+
+
+
+### Attention Systems
+
+
+
