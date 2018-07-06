@@ -28,7 +28,7 @@ A curated list of latest papers in the field of Computer Vision, inspired by [aw
 
 
 ### Visual Attention
-* [Diversity Regularized Spatiotemporal Attention for Video-based Person Re-identification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Diversity_Regularized_Spatiotemporal_CVPR_2018_paper.pdf), Shuang Li1∗, CVPR 2018
+* [Diversity Regularized Spatiotemporal Attention for Video-based Person Re-identification](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Diversity_Regularized_Spatiotemporal_CVPR_2018_paper.pdf), Shuang Li, CVPR 2018
 * [Attentional Pooling for Action Recognition](https://arxiv.org/abs/1711.01467), R. Girdhar, NIPS 2017
 * [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://arxiv.org/abs/1711.10485), T. Xu, CVPR 2018
 
