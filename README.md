@@ -33,3 +33,8 @@ A curated list of latest papers in the field of Computer Vision, inspired by [aw
 * [Attentional Pooling for Action Recognition](https://arxiv.org/abs/1711.01467), R. Girdhar, NIPS 2017
 * [AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks](https://arxiv.org/abs/1711.10485), T. Xu, CVPR 2018
 
+
+
+### Optical Flow
+
+* [UnFlow: Unsupervised Learning of Optical Flow with a Bidirectional Census Loss](https://arxiv.org/abs/1711.07837), Simon, CVPR 2018
